@@ -1,0 +1,41 @@
+{
+  "name": "tch-postpackager-autoload",
+  "version": "0.0.1",
+  "description": "fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tch"
+  ],
+  "author": {
+    "name": "gerdy"
+  },
+  "license": "bsd",
+  "_id": "tch-postpackager-autoload@0.0.1",
+  "_shasum": "11794801e4f24fa677857b09e540b1238bb03e09",
+  "_from": "tch-postpackager-autoload@0.0.1",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "gerdy",
+    "email": "imfpe@qq.com"
+  },
+  "maintainers": [
+    {
+      "name": "gerdy",
+      "email": "imfpe@qq.com"
+    }
+  ],
+  "dist": {
+    "shasum": "11794801e4f24fa677857b09e540b1238bb03e09",
+    "size": 5745,
+    "noattachment": false,
+    "tarball": "http://172.16.51.21:8765/tch-postpackager-autoload/download/tch-postpackager-autoload-0.0.1.tgz"
+  },
+  "directories": {},
+  "publish_time": 1407940162169,
+  "_cnpm_publish_time": 1407940162169,
+  "_resolved": "http://172.16.51.21:8765/tch-postpackager-autoload/download/tch-postpackager-autoload-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
